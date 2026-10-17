@@ -1,0 +1,52 @@
+[
+    {
+        "ModelId": 1,
+        "ModelName": "PerceptronPercolator Online 1k 1b",
+        "ModelSource": "PerceptronPercolator",
+        "TrainedDatapoints": 1000,
+        "ModelType": "Online",
+        "BatchSizeNum": 1,
+        "FileFormat": "CSV",
+        "AccuratePercentage": 100.0
+    },
+    {
+        "ModelId": 2,
+        "ModelName": "PreheatedPerceptron Batch 1k 10b",
+        "ModelSource": "PreheatedPerceptron",
+        "TrainedDatapoints": 1000,
+        "ModelType": "Batch",
+        "BatchSizeNum": 10,
+        "FileFormat": "DAT",
+        "AccuratePercentage": 100.0
+    },
+    {
+        "ModelId": 3,
+        "ModelName": "PreheatedPerceptron Batch 1k 100b",
+        "ModelSource": "PreheatedPerceptron",
+        "TrainedDatapoints": 1000,
+        "ModelType": "Batch",
+        "BatchSizeNum": 100,
+        "FileFormat": "DAT",
+        "AccuratePercentage": 90.8
+    },
+    {
+        "ModelId": 4,
+        "ModelName": "PreheatedPerceptron Batch 1k 200b",
+        "ModelSource": "PreheatedPerceptron",
+        "TrainedDatapoints": 1000,
+        "ModelType": "Batch",
+        "BatchSizeNum": 200,
+        "FileFormat": "DAT",
+        "AccuratePercentage": 47.8
+    },
+    {
+        "ModelId": 5,
+        "ModelName": "PreheatedPerceptron Batch 1k 1b",
+        "ModelSource": "PreheatedPerceptron",
+        "TrainedDatapoints": 1000,
+        "ModelType": "Batch",
+        "BatchSizeNum": 1,
+        "FileFormat": "DAT",
+        "AccuratePercentage": 100.0
+    }
+]

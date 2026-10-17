@@ -1,0 +1,634 @@
+[
+    {
+        "Datapoint": "A!",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "A+",
+        "InvalidStringsInstances": 8
+    },
+    {
+        "Datapoint": "A-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "A?",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "A_",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "B!",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "B+",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "B-",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "B?",
+        "InvalidStringsInstances": 8
+    },
+    {
+        "Datapoint": "B_",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "C!",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "C+",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "C-",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "C?",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "C_",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "D!",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "D+",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "D-",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "D?",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "D_",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "E!",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "E+",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "E-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "E?",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "E_",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "F!",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "F+",
+        "InvalidStringsInstances": 8
+    },
+    {
+        "Datapoint": "F-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "F?",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "F_",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "G!",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "G+",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "G-",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "G?",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "G_",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "H",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "H#",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "H+",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "H?",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Hb",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "I",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "I!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "I#",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "I-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "I?",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Ib",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "I_",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "J",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "J!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "J#",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "J+",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "J?",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Jb",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "K!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "K#",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "K+",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "K-",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "K?",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Kb",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "K_",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "L",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "L!",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "L#",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "L+",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "L-",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "L?",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "Lb",
+        "InvalidStringsInstances": 8
+    },
+    {
+        "Datapoint": "L_",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "M",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "M#",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "M+",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "M-",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "M?",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "Mb",
+        "InvalidStringsInstances": 10
+    },
+    {
+        "Datapoint": "M_",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "N",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "N!",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "N#",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "N+",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "N-",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "N?",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Nb",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "N_",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "O",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "O!",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "O#",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "O+",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "O?",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Ob",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "O_",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "P",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "P!",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "P#",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "P+",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "P-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "P?",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Pb",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "Q",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Q!",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Q#",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "Q+",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Q-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Q?",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Qb",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "Q_",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "R",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "R!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "R#",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "R-",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Rb",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "R_",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "S",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "S!",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "S#",
+        "InvalidStringsInstances": 5
+    },
+    {
+        "Datapoint": "S-",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Sb",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "S_",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "T",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "T!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "T#",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "T+",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "T-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "T?",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Tb",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "U!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "U#",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "U+",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "U-",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "U?",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Ub",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "U_",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "V",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "V#",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "V-",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "V?",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Vb",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "V_",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "W#",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "W+",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "W-",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "W?",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Wb",
+        "InvalidStringsInstances": 7
+    },
+    {
+        "Datapoint": "W_",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "X",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "X!",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "X#",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "X-",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Xb",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "X_",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Y",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Y#",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Y?",
+        "InvalidStringsInstances": 3
+    },
+    {
+        "Datapoint": "Yb",
+        "InvalidStringsInstances": 6
+    },
+    {
+        "Datapoint": "Z",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Z!",
+        "InvalidStringsInstances": 1
+    },
+    {
+        "Datapoint": "Z#",
+        "InvalidStringsInstances": 2
+    },
+    {
+        "Datapoint": "Z-",
+        "InvalidStringsInstances": 4
+    },
+    {
+        "Datapoint": "Zb",
+        "InvalidStringsInstances": 3
+    }
+]

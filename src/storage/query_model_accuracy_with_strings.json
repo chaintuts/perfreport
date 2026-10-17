@@ -1,0 +1,41 @@
+{
+    "_comments" : 
+    { 
+        "_comment" : "This query combines model metadata with inaccurately predicted valid strings",
+        "_comment2" : "The projection will list inaccurate strings as a comma-separated list in one column"
+    },
+
+    "queries" : 
+    [
+        {
+            "collection" : "accuracyPerModel",
+            "find" : {},
+            "projection" : { "_id" : false },
+            
+            "sub_query" : 
+            {
+                "name" : "InaccurateStrings",
+                "collection" : "modelInaccurateValidStrings",
+                "find" : { "ModelId" : "" },
+                "projection" : { "_id" : false, "Datapoint" : true },
+                "sub_query_action" : "join",
+                "sub_query_join_on" : "Datapoint"
+            }
+        }
+
+    ],
+
+    "table_columns" : 
+    [
+        "ModelId",
+        "ModelName",
+        "ModelSource",
+        "TrainedDatapoints",
+        "ModelType",
+        "BatchSizeNum",
+        "FileFormat",
+        "AccuratePercentage",
+        "InaccurateStrings"
+    ]
+
+}

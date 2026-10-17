@@ -1,0 +1,86 @@
+[
+    {
+        "ValidString": "A",
+        "ValidStringInstances": 20
+    },
+    {
+        "ValidString": "A#",
+        "ValidStringInstances": 30
+    },
+    {
+        "ValidString": "Ab",
+        "ValidStringInstances": 15
+    },
+    {
+        "ValidString": "B",
+        "ValidStringInstances": 19
+    },
+    {
+        "ValidString": "B#",
+        "ValidStringInstances": 28
+    },
+    {
+        "ValidString": "Bb",
+        "ValidStringInstances": 21
+    },
+    {
+        "ValidString": "C",
+        "ValidStringInstances": 25
+    },
+    {
+        "ValidString": "C#",
+        "ValidStringInstances": 20
+    },
+    {
+        "ValidString": "Cb",
+        "ValidStringInstances": 20
+    },
+    {
+        "ValidString": "D",
+        "ValidStringInstances": 28
+    },
+    {
+        "ValidString": "D#",
+        "ValidStringInstances": 23
+    },
+    {
+        "ValidString": "Db",
+        "ValidStringInstances": 21
+    },
+    {
+        "ValidString": "E",
+        "ValidStringInstances": 32
+    },
+    {
+        "ValidString": "E#",
+        "ValidStringInstances": 26
+    },
+    {
+        "ValidString": "Eb",
+        "ValidStringInstances": 19
+    },
+    {
+        "ValidString": "F",
+        "ValidStringInstances": 23
+    },
+    {
+        "ValidString": "F#",
+        "ValidStringInstances": 27
+    },
+    {
+        "ValidString": "Fb",
+        "ValidStringInstances": 18
+    },
+    {
+        "ValidString": "G",
+        "ValidStringInstances": 25
+    },
+    {
+        "ValidString": "G#",
+        "ValidStringInstances": 20
+    },
+    {
+        "ValidString": "Gb",
+        "ValidStringInstances": 18
+    }
+]

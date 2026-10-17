@@ -1,0 +1,40 @@
+{
+    "_comments" : 
+    { 
+        "_comment" : "This query combines all valid and invalid strings in the dataset, and the count of instances in the training dataset",
+        "_comment2" : "The projection will sort by valid/invalid"
+    },
+
+    "queries" : 
+    [
+        {
+            "collection" : "validStringsDataset",
+            "find" : {},
+            "projection" : { "_id" : false },
+            "mappings" : 
+            { 
+                "ValidString" : "String", 
+                "ValidStringInstances" : "Count"
+            }
+        },
+
+        {
+            "collection": "invalidStringsDataset",
+            "find" : {},
+            "projection" : { "_id" : false },
+            "mappings" : 
+            { 
+                "Datapoint" : "String", 
+                "InvalidStringsInstances" : "Count"
+            }
+        }
+
+    ],
+
+    "table_columns" : 
+    [
+        "String",
+        "Count"
+    ]
+
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "ModelId": 3,
+        "ModelName": "PreheatedPerceptron Batch 1k 100b",
+        "Datapoint": "A",
+        "InaccurateValidStrings": 20
+    },
+    {
+        "ModelId": 3,
+        "ModelName": "PreheatedPerceptron Batch 1k 100b",
+        "Datapoint": "B",
+        "InaccurateValidStrings": 19
+    },
+    {
+        "ModelId": 3,
+        "ModelName": "PreheatedPerceptron Batch 1k 100b",
+        "Datapoint": "C",
+        "InaccurateValidStrings": 25
+    },
+    {
+        "ModelId": 3,
+        "ModelName": "PreheatedPerceptron Batch 1k 100b",
+        "Datapoint": "D",
+        "InaccurateValidStrings": 28
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "ValidString": "A",
+        "InaccuratePredictions": 20
+    },
+    {
+        "ValidString": "A#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Ab",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "B",
+        "InaccuratePredictions": 19
+    },
+    {
+        "ValidString": "B#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Bb",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "C",
+        "InaccuratePredictions": 25
+    },
+    {
+        "ValidString": "C#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Cb",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "D",
+        "InaccuratePredictions": 28
+    },
+    {
+        "ValidString": "D#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Db",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "E",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "E#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Eb",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "F",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "F#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Fb",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "G",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "G#",
+        "InaccuratePredictions": 0
+    },
+    {
+        "ValidString": "Gb",
+        "InaccuratePredictions": 0
+    }
+]
